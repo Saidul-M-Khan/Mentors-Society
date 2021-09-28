@@ -1,0 +1,22 @@
+.added-mentor {
+    width: 80%;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px 5px 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(157, 157, 157);
+    background: #562eff;
+    color: #fff;
+}
+
+.added-mentor img {
+    width: 50px;
+    border-radius: 5px;
+}
+
+.salary {
+    font-weight: bold;
+}

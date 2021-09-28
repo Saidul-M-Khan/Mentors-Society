@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    background: #562EFF;
+    color: white;
+}
+
+.nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px 20px;
+    color: white;
+}
+
+.logo h2{
+    color:azure;
+}
+
+.nav a {
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+}
+
+.fas {
+    color: white;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h1, h2, h3 {
+    color: black;
+    margin: 10px 0px;
+}
+
+

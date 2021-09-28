@@ -1,0 +1,49 @@
+.mentor {
+    text-align: center;
+    padding: 20px 10px;
+    border: 1px solid rgb(97, 73, 255);
+    transition: 0.6s;
+    background: white;
+}
+
+.mentor:hover {
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    border: 1px solid azure;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, white 0%, rgb(229, 247, 250) 90.1%);
+    color: black;
+  }
+
+.mentor-image img {
+    width: 120px;
+    border-radius: 50%
+}
+
+.mentor-details h2, p {
+    text-align: left;
+    margin: 10px 0px;
+    color: black;
+}
+
+.mentor-details h1 {
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+.mentor-details button {
+    border: 0;
+    margin-top: 10px;
+    font-size: 17px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background: linear-gradient(to right, #021B79, #0575E6);
+    color: white;
+}
+
+.fa-cart-plus {
+    color: #fff;
+}
+
+
+

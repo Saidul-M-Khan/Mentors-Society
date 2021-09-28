@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "name": "Ratul Bhattacharjee",
+        "department": "Computer Science",
+        "course": "Artificial Intelligence",
+        "tuition_fee": 5000,
+        "rating": 4.9,
+        "total_rating": 65,
+        "image": "https://i.ibb.co/QC3qC6K/mentor-1.jpg"
+    }, 
+
+    {
+        "id": "2",
+        "name": "Mahadi-Al-Mohok",
+        "department": "Computer Science",
+        "course": "Software Quality Testing",
+        "tuition_fee": 3000,
+        "rating": 4.5,
+        "total_rating": 50,
+        "image": "https://i.ibb.co/kqZxXdQ/mentor-2.jpg"
+    }, 
+
+    {
+        "id": "3",
+        "name": "Sufian Tanzid",
+        "department": "Computer Engineering",
+        "course": "Computer Graphics",
+        "tuition_fee": 3500,
+        "rating": 4.6,
+        "total_rating": 55,
+        "image": "https://i.ibb.co/g6sx78z/mentor-3.jpg"
+    }, 
+
+    {
+        "id": "4",
+        "name": "Nadim Ahmed",
+        "department": "Software Engineering",
+        "course": "Object Oriented Programming (JAVA)",
+        "tuition_fee": 4000,
+        "rating": 4.8,
+        "total_rating": 80,
+        "image": "https://i.ibb.co/dpZh69K/mentor-4.jpg"
+    }, 
+
+    {
+        "id": "5",
+        "name": "Sumit Kanti Sarkar",
+        "department": "Electrical Engineering",
+        "course": "Microprocessor",
+        "tuition_fee": 4000,
+        "rating": 4.3,
+        "total_rating": 35,
+        "image": "https://i.ibb.co/LnnJ1vz/mentor-5.jpg"
+    }, 
+
+    {
+        "id": "6",
+        "name": "Yeasin Mridha",
+        "department": "Business Studies",
+        "course": "Affiliate Marketing",
+        "tuition_fee": 3000,
+        "rating": 4.2,
+        "total_rating": 48,
+        "image": "https://i.ibb.co/305CK3d/mentor-6.jpg"
+    }, 
+
+    {
+        "id": "7",
+        "name": "Nader Islam Tamim",
+        "department": "Business Studies",
+        "course": "Accounting",
+        "tuition_fee": 4000,
+        "rating": 4.6,
+        "total_rating": 65,
+        "image": "https://i.ibb.co/bmSq1dY/mentor-7.jpg"
+    }, 
+
+    {
+        "id": "8",
+        "name": "Mir Shahidul Islam",
+        "department": "Textile Engineering",
+        "course": "Basic Mechanical Engineering",
+        "tuition_fee": 4500,
+        "rating": 4.8,
+        "total_rating": 25,
+        "image": "https://i.ibb.co/rxjJ1Bg/mentor-8.jpg"
+    }, 
+
+    {
+        "id": "9",
+        "name": "Hasibur Rahman Hridoy",
+        "department": "Business Studies",
+        "course": "Finance",
+        "tuition_fee": 3500,
+        "rating": 4.7,
+        "total_rating": 62,
+        "image": "https://i.ibb.co/1zMtrkx/mentor-9.jpg"
+    }
+
+]
